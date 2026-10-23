@@ -1,4 +1,5 @@
 name: ML Project Continuous Integration
+run-name: ML Project CI Run
 
 on:
   push:
